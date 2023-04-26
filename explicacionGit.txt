@@ -1,0 +1,7 @@
+
+pyoncon 
+1.0.0 => "Aqui mi aplicacion tiene el login, el register y la interaccion con la camara"
+1.1.0 => "Aqui mi app tiene una nueva interaccion con la galeria"
+1.1.1 => "Aqui soluciono el problema del login con google"
+
+
